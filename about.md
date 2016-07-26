@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a year 2 NUS Computing student majoring in Business Analytics (but planning to switch to CS lolol).
 
 ### Contact me
 
